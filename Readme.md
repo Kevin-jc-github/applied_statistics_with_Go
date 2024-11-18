@@ -29,11 +29,11 @@ In the Go implementation, we:
 ### How to Run the Code
 1. **Clone the repository** using the command:
    ```sh
-   git clone <repository-url>.git
+   git clone https://github.com/Kevin-jc-github/applied_statistics_with_Go.git
    ```
 2. **Navigate** to the project directory:
    ```sh
-   cd bootstrap-median-go
+   cd applied_statistics_with_Go
    ```
 3. **Run the code**:
    ```sh
